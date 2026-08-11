@@ -1,0 +1,11 @@
+PatientID,PatientName,Gender,DOB,City,InsuranceProvider
+P1001,Ravi Teja,M,1985-04-12,Vijayawada,StarHealth
+P1002,Lakshmi Devi,F,1978-11-03,Hyderabad,ICICI Lombard
+P1003,Mohammed Ali,M,1990-02-25,Chennai,HDFC Ergo
+P1004,Sunitha Rao,F,1995-07-19,Bangalore,StarHealth
+P1005,Karthik Naidu,M,1982-09-30,Vijayawada,None
+P1006,Anjali Sharma,F,1999-01-14,Hyderabad,ICICI Lombard
+P1007,Vinod Kumar,M,1975-06-08,Chennai,None
+P1008,Divya Prasad,F,1988-12-22,Bangalore,HDFC Ergo
+P1009,Ramesh Babu,M,1965-03-17,Vijayawada,StarHealth
+P1010,Pooja Reddy,F,2001-08-05,Hyderabad,None
