@@ -1,9 +1,0 @@
-DepartmentID,DepartmentName,Location,HeadDoctorID
-D001,Cardiology,Block A - Floor 2,DOC101
-D002,Orthopedics,Block A - Floor 3,DOC102
-D003,Neurology,Block B - Floor 1,DOC103
-D004,Pediatrics,Block B - Floor 2,DOC104
-D005,General Medicine,Block A - Floor 1,DOC105
-D006,Emergency,Block C - Ground Floor,DOC106
-D007,Radiology,Block B - Floor 3,DOC107
-D008,Oncology,Block C - Floor 2,DOC108
