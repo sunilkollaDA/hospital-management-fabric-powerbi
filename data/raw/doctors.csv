@@ -1,0 +1,11 @@
+DoctorID,DoctorName,DepartmentID,Specialization,Experience_Years,JoiningDate
+DOC101,Dr. Ramesh Varma,D001,Cardiologist,15,2010-03-12
+DOC102,Dr. Anitha Rao,D002,Orthopedic Surgeon,12,2013-07-01
+DOC103,Dr. Suresh Kumar,D003,Neurologist,18,2008-01-20
+DOC104,Dr. Priya Nair,D004,Pediatrician,9,2016-05-15
+DOC105,Dr. Vijay Kumar,D005,General Physician,7,2018-09-10
+DOC106,Dr. Kavitha Reddy,D006,Emergency Medicine,10,2015-02-25
+DOC107,Dr. Arjun Menon,D007,Radiologist,11,2014-11-30
+DOC108,Dr. Sneha Iyer,D008,Oncologist,14,2011-06-18
+DOC109,Dr. Manoj Pillai,D001,Cardiologist,6,2019-04-22
+DOC110,Dr. Deepa Sharma,D005,General Physician,5,2020-01-08
